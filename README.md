@@ -9,7 +9,7 @@ pen-restaraunt - a restaurant management system (WIP) - https://streamable.com/j
 pen-discordqueue - a queue system which uses discord instead of a web server which removes additional bloat, runs within fivem and prioritises optimization has customizable tiers and other QOL stuff.
 <img width="638" height="239" alt="Screenshot 2025-08-08 235313" src="https://i.ibb.co/GfXKr8D3/476296196-21c25eff-82bf-4593-ac8a-c9d30b972a70.png" />
 
-pen-meth - meth table script, place meth table, cook meth - https://streamable.com/58876u \
+pen-meth - meth table script, with db persistence, place meth table, cook meth - https://streamable.com/58876u \
 fd-clockin - clockin system for non framework servers, utilizes discord.js for clockin leaderboards that are displayed froma database\
 pen-miningjob - start mining job > go to quarry or configured areas, mine rocks and get materials based on a chance\
 pen-utility - discord utility, collecting discord roles, discord whitelist and basic vehicle utils\
