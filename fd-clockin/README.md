@@ -1,0 +1,1 @@
+# script made for a server without jobs which houses a discord bot for clockin stats a long with in-game clockin states
