@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS pen_outages (
+  area_id VARCHAR(64) NOT NULL,
+  active TINYINT(1) NOT NULL DEFAULT 0,
+  started_at INT NOT NULL DEFAULT 0,
+  PRIMARY KEY (area_id)
+);
